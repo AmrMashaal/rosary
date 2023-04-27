@@ -47,5 +47,6 @@ span {
   font-size: 53px;
   width: 63%;
   padding-left: 26px;
+  user-select: none;
 }
 
